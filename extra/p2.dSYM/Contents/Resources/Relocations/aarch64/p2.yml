@@ -1,0 +1,8 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/kalaiselvanck/Desktop/program C++/extra/p2'
+relocations:
+  - { offsetInCU: 0x26, offset: 0x26, size: 0x8, addend: 0x0, symName: __Z16sumOfAllDivisorsi, symObjAddr: 0x0, symBinAddr: 0x100003E7C, symSize: 0xD4 }
+  - { offsetInCU: 0x30ED, offset: 0x30ED, size: 0x8, addend: 0x0, symName: __Z16sumOfAllDivisorsi, symObjAddr: 0x0, symBinAddr: 0x100003E7C, symSize: 0xD4 }
+  - { offsetInCU: 0x314D, offset: 0x314D, size: 0x8, addend: 0x0, symName: _main, symObjAddr: 0xD4, symBinAddr: 0x100003F50, symSize: 0x40 }
+...
